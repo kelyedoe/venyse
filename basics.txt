@@ -1,0 +1,18 @@
+Front end projects 
+
+Step 01
+    The Header
+    The best way to peform a basic reset using universal selector
+    How to set project wide font definitions
+    How to clip parts of elements using clip-path
+
+tep 02
+    center anything with the transform, top, left properties
+
+Step 03
+    ::after pseudo element (how and why to use it)
+    transition property (how to create creative hoover animation effect using this)
+
+Think Build Architect
+BEM methodlogy
+Atomic design cd    
