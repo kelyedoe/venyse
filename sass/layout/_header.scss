@@ -1,11 +1,12 @@
 
 .header{
     height: 95vh;
+    position: absolute;
     background-image: linear-gradient(
         to right bottom,
         rgba($color-primary-light, 0.8),
         rgba($color-primary-dark, 0.8)),
-    url(/advanced-css/images/venyse.jpg);
+    url(/images/venyse.jpg);
     background-size: cover;
     background-position: top;
     position: relative;
@@ -29,10 +30,12 @@
     }
 
     &__text-box{
-        position: absolute;
+        /* display: grid;
+        grid-template-columns: repeat(1, 1fr); */
+        position: relative;
         top: 30%;
-        left: 5rem; 
-        transform: translate(35%, 10%); 
+        //left: 5rem; 
+        //transform: translate(-50%, -50%); 
         text-align: center;
         //background-color: red !important;
     }
