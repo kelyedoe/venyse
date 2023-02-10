@@ -696,7 +696,8 @@ body {
     top: 4rem;
     left: 4rem; }
   .header__logo {
-    height: 3.5rem; }
+    height: 4rem;
+    width: 4rem; }
   .header__text-box {
     /* display: grid;
         grid-template-columns: repeat(1, 1fr); */
